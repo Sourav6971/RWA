@@ -1,0 +1,6 @@
+
+node_modules/
+package-lock.json
+package.json
+playground-1.mongodb.js
+.env
